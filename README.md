@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bappi</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
-- 🌱 I’m currently learning **flutter, Java**
+- 🌱 I’m currently learning ** flutter, Java **
 
 - 👯 I’m looking to collaborate on [X-fitlife](https://median.co/share/brabab)
 
